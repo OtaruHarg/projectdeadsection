@@ -1,2 +1,40 @@
 body{
+    text-align: center;
+}
+
+.field{
+    display: flex;
+    justify-content: center;
+}
+
+.blog{
+    background-color: blue;
+    opacity: 0.8;
+    width: 23%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.game{
+    background-color: red;
+    opacity: 0.8;
+    width: 23%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.novel{
+    background-color: yellow;
+    opacity: 0.8;
+    width: 23%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.other{
+    background-color: green;
+    opacity: 0.8;
+    width: 23%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
